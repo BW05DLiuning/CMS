@@ -7,7 +7,7 @@ public class StringUtils {
 		for (String string : split) {
 			sb.append("<p>").append(split).append("</p>");
 		}
-		return sb.toString(); 
+		return sb.toString();  
 		
 	}
 }
